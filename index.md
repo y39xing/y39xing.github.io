@@ -2,12 +2,17 @@
 
 This is Yun Xing, studying Mathematics at University of Waterloo.
 
-Finishied 2A term
-Currently work as a CTSA at University of Waterloo(Math Faculty)
+Finishied 2A term.
 
-### Here are links to some of my social media account.
+Currently work as a CTSA at University of Waterloo(Math Faculty).
 
-Twitter
+## Here are links to some of my social media account.
+
+[My Twitter](https://twitter.com/kkkllwg)
+
+[My Instagram](https://www.instagram.com/xy_klwg/)
+
+[My Bilibili](https://space.bilibili.com/30189272)
 
 ```markdown
 Syntax highlighted code block
