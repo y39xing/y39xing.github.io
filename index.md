@@ -1,4 +1,4 @@
-## Yun Xing
+# Yun Xing
 
 This is Yun Xing, studying Mathematics at University of Waterloo.
 
