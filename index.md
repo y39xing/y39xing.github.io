@@ -18,8 +18,7 @@ Currently work as a CTSA at University of Waterloo(Math Faculty).
 
 [My LinkedIn](https://www.linkedin.com/in/yun-xing-248a90211/)
 
-## Resume/CV/Grade
-<a id="raw-url" href="https://raw.githubusercontent.com/y39xing/y39xing.github.io/blob/main/Resume%20Data.pdf">Download FILE</a>
+## Resume/Grade
 
 [My Resume](https://github.com/y39xing/y39xing.github.io/blob/main/Resume%20Data.pdf)
 
