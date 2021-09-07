@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Yun Xing
 
-You can use the [editor on GitHub](https://github.com/y39xing/y39xing.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is Yun Xing, studying Mathematics at University of Waterloo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Finishied 2A term
+Currently work as a CTSA at University of Waterloo(Math Faculty)
 
-### Markdown
+### Here are links to some of my social media account.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Twitter
 
 ```markdown
 Syntax highlighted code block
