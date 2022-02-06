@@ -1,10 +1,12 @@
 # Yun Xing
 
-This is Yun Xing, studying Mathematics at University of Waterloo.
+This is Yun Xing, studying Honour Mathematics at University of Waterloo.
 
-Finishied 2A term.
+Finishied 2A term in Spring 2021.
 
-Currently work as a CTSA at University of Waterloo(Math Faculty).
+In Fall 2021,Worked as a CTSA at University of Waterloo(in Math Faculty).
+
+Currently in 2B term.
 
 ## Here are links to some of my social media account.
 
@@ -22,4 +24,6 @@ Currently work as a CTSA at University of Waterloo(Math Faculty).
 
 [My Resume](https://github.com/y39xing/y39xing.github.io/blob/main/Resume%20Data.pdf)
 
-[My Academic Performace](https://github.com/y39xing/y39xing.github.io/blob/main/Grade%20S21.png)
+[My Co-op histroy](https://github.com/y39xing/y39xing.github.io/blob/main/Work%20term%20history.pdf)
+
+[My Academic Performace](https://github.com/y39xing/y39xing.github.io/blob/main/Grade%20Transcript.pdf)
