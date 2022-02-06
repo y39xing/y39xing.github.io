@@ -4,7 +4,7 @@ This is Yun Xing, studying Honour Mathematics at University of Waterloo.
 
 Finishied 2A term in Spring 2021.
 
-In Fall 2021,Worked as a CTSA at University of Waterloo(in Math Faculty).
+In Fall 2021, I worked as a CTSA at University of Waterloo(in Math Faculty).
 
 Currently in 2B term.
 
