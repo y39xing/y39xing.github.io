@@ -22,7 +22,7 @@ Currently in 2B term.
 
 ## Resume/Co-op History/Grade
 
-[My Resume](https://github.com/y39xing.github.io/blob/main/Resume%20Data.pdf)
+[My Resume](https://github.com/y39xing/y39xing.github.io/blob/main/Resume%20Data.pdf)
 
 [My Co-op histroy](https://github.com/y39xing/y39xing.github.io/blob/main/Work%20term%20history.pdf)
 
