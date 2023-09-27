@@ -18,9 +18,9 @@ In Spring 2023, I worked as a research assitant for Prof. Spirkl in C&O departme
 
 ## Here are links to some of my social media accounts.
 
-[My Twitter](/y39xing/y39xing.github.io/blob/main/tw.jpg)(https://twitter.com/kkkllwg)
+[My Twitter](https://twitter.com/kkkllwg)
 
-[My Bilibili](y39xing/y39xing.github.io/blob/main/bl.png)(https://space.bilibili.com/30189272)
+[My Bilibili](https://space.bilibili.com/30189272)
 
 ## LinkedIn
 
