@@ -2,32 +2,32 @@
 
 Hello! This is Yun Xing, who is now studying Combinatorics and Optimization at University of Waterloo.
 
-I've also got a minor in economics.
+I'm pursing a minor in economics.
 
-Finishied 2B term in Winter 2022.
+Finishied 3A term in Fall 2023.
 
-Currently in 3A term, learning Graph theory and Statistics.
+Currently in 3B term, studying topics in Combinatorics, Graph Theory and Optimization.
 
-In Fall 2021, I worked as a CTSA at University of Waterloo(in Math Faculty).
+In Fall 2021, I worked as a course assistant at University of Waterloo(in Math Faculty).
 
 In Spring 2022, I worked as a economic modeller at Impossible Mining Inc. (A start-up).
+
+In Winter 2023, I worked as a data analyst at Business Department of University of Waterloo.
+
+In Spring 2023, I worked as a research assitant for Prof. Spirkl in C&O department of Waterloo.
 
 ## Here are links to some of my social media accounts.
 
 [My Twitter](https://twitter.com/kkkllwg)
 
-[My Instagram](https://www.instagram.com/xy_klwg/)
-
 [My Bilibili](https://space.bilibili.com/30189272)
 
 ## LinkedIn
 
-[My LinkedIn](https://www.linkedin.com/in/yun-xing-248a90211/)
+[My LinkedIn](https://www.linkedin.com/in/yun-xing-nebula/)
 
 ## Resume/Co-op History/Grade
 
-[My Resume](https://github.com/y39xing/y39xing.github.io/blob/main/Resume_F22.pdf)
+[My Resume](https://github.com/y39xing/y39xing.github.io/blob/main/Resume_F23.pdf)
 
-[My Co-op histroy](https://github.com/y39xing/y39xing.github.io/blob/main/20877134_wtr.pdf)
-
-[My Academic Performace](https://github.com/y39xing/y39xing.github.io/blob/main/20877134.pdf)
+[My Academic Performace](https://github.com/y39xing/y39xing.github.io/blob/main/Unofficial_Transcript_F23.pdf)
